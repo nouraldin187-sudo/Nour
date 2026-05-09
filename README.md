@@ -66,7 +66,7 @@ Automation With Python (By Nour)
 (https://colab.research.google.com/drive/14Rlx19dIetYrHXcZ3YUJKCI38YorjsSu?usp=sharing)
 ______________________________________
 
-Make Sql Database (By Aya)
+Sql Database (By Aya)
 
 (https://drive.google.com/drive/folders/103NS__HWlgbFlDLOX1siWrkILbNifAUr?usp=sharing)
 ______________________________________
