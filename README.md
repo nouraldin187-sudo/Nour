@@ -25,7 +25,9 @@ Work Plan
 
 
 2.Automation With Python (By Nour)
+
 (https://colab.research.google.com/drive/15iyHZS9yhUZFAuKW6SrhyznHiOY_upmm?usp=sharing)
+
 (https://colab.research.google.com/drive/14Rlx19dIetYrHXcZ3YUJKCI38YorjsSu?usp=sharing)
 
 3.Make Sql Database (By Aya)
