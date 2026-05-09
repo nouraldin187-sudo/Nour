@@ -61,9 +61,29 @@ olist_order_payments_dataset.csv
 ______________________________________
 
 Automation With Python (By Nour)
+Automation Script
 
 (https://colab.research.google.com/drive/15iyHZS9yhUZFAuKW6SrhyznHiOY_upmm?usp=sharing)
 (https://colab.research.google.com/drive/14Rlx19dIetYrHXcZ3YUJKCI38YorjsSu?usp=sharing)
+
+**Datasets After Automation
+**
+
+reviews_clean_final.csv
+
+orders_clean.csv
+
+order_items_clean.csv
+
+payments_clean.csv
+
+customers_clean.csv
+
+products_clean.csv
+
+sellers_clean.csv
+
+category_translation_clean.csv
 ______________________________________
 
 Sql Database (By Aya)
