@@ -69,4 +69,8 @@ ______________________________________
 Sql Database (By Aya)
 
 (https://drive.google.com/drive/folders/103NS__HWlgbFlDLOX1siWrkILbNifAUr?usp=sharing)
+
+**Schema**
+
+<img width="1327" height="732" alt="Image" src="https://github.com/user-attachments/assets/d8294c64-4bff-400d-a2c1-0cd13830839e" />
 ______________________________________
