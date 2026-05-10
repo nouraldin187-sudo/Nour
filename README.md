@@ -99,3 +99,13 @@ Sql Database (By Aya)
 
 <img width="1327" height="732" alt="Image" src="https://github.com/user-attachments/assets/d8294c64-4bff-400d-a2c1-0cd13830839e" />
 ______________________________________
+
+Power Bi Dashboard (By Alaa)
+
+ecommerce_project.pdf
+
+https://drive.google.com/drive/folders/1D9uKSSjVfedObuJWc9J_5YCBHR6qYeQ2?usp=sharing
+
+DashBoard
+
+Image
