@@ -40,6 +40,14 @@ Instructor
 Abd Elrahman Ashour
 ______________________________________
 
+Final Presentation
+
+Olist E-commerce.pptx
+
+https://drive.google.com/drive/folders/1lCzjZN3AT4vyau-vnt1Kjdx8mNbWPXPT?usp=sharing
+
+______________________________________
+
 **Data Sets (Olist E-commerce Datasets) (By Nour)
 **
 
@@ -152,6 +160,14 @@ Work Plan
 ______________________________________
 Instructor
 Abd Elrahman Ashour
+______________________________________
+
+Final Presentation
+
+Olist E-commerce.pptx
+
+https://drive.google.com/drive/folders/1lCzjZN3AT4vyau-vnt1Kjdx8mNbWPXPT?usp=sharing
+
 ______________________________________
 
 **Data Sets (Olist E-commerce Datasets) (By Nour)
